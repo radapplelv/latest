@@ -8,8 +8,19 @@
 }
 
 .logo {
-	font-size: 20px;
+	font-size: 18px;
+	letter-spacing: 1px;
 	font-weight: 600;
+}
+
+#logo {
+	display: flex;
+	align-items: center;
+}
+
+.symbol {
+	width: 32px;
+	margin-right: 10px; 
 }
 
 header {
